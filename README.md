@@ -1,0 +1,1 @@
+This project documents how I web-scrape all U.S. congressional speeches on the 2019 Hong Kong protest movements. I also applied Bidirectional Encoder Representations from Transformers (BERT) models to classify the topics of each speech.
